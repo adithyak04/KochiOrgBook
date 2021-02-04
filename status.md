@@ -4,8 +4,8 @@
 
 * Identifiers - Centralized and Decentralized
 * Credentials
-*   Paper Credential Model
-*   Verifiable Credentials Model
+  * Paper Credential Model
+  * Verifiable Credentials Model
 * Self Soverign Identity (SSI)
 * DID
 * DIDDoc
